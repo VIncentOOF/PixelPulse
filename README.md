@@ -71,3 +71,9 @@ A simple sitemap of my project
   - Swift Text: Description of what it can do
   - Wifi Compass Windows Testing: Demo version in python to run in windows
   - wifi compass: Actual iOS app
+ 
+# Things left to do
+-Interview Questions Tester using GPT-3.5 and Whisper
+-Autonomous UAV(might not finish)
+-Hosting neko on my personal pc using docker containerization
+-Arduino Smart Planting watering system 
