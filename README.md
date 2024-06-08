@@ -73,6 +73,7 @@ A simple sitemap of my project
   - wifi compass: Actual iOS app
  
 # Things Left to Do
+- Fashion AI app
 - Interview Questions Tester using GPT-3.5 and Whisper
 - Autonomous UAV 
 - Hosting neko on my personal PC using Docker containerization
