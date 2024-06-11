@@ -76,6 +76,5 @@ A simple sitemap of my project
 - Fashion AI app
 - Interview Questions Tester using GPT-3.5 and Whisper
 - Autonomous UAV 
-- Hosting neko on my personal PC using Docker containerization
 - Arduino Smart Planting watering system
 - Provide Requirements.txt for all the different softwares
