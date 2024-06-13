@@ -1,10 +1,12 @@
 # PixelPulse
 A collection of my projects that I have done in the past 3 years for the upcoming Direct-School-Admissions-Exercise-2024
 
-A simple sitemap of my project
+
 # About Me
 Hi, my name is Vincent, I'm a Secondary 4 Student from Maris Stella High School taking Computing. I am a dedicated and versatile coder with a profound passion for technology and innovation. With a strong foundation in Python and a diverse skill set spanning software development, data analysis, and AI integration, I am always at the forefront of creating impactful and efficient solutions. When I'm not coding and studying, you can find me at the gym or on local mountain bike trails. Physical fitness is essential to my lifestyle, balancing my mental and physical well-being. Strength training at the gym enhances my focus and productivity, while mountain biking provides a thrilling escape into nature, offering adventure and tranquillity. These activities fuel my passion for continuous learning and innovation, ensuring I stay grounded, motivated, and ready for new challenges.
 
+
+#A simple sitemap of my project
 
 # Project Sitemap
 
@@ -77,8 +79,8 @@ Hi, my name is Vincent, I'm a Secondary 4 Student from Maris Stella High School 
   - wifi compass: Actual iOS app
  
 # Things Left to Do
-- Fashion AI app
-- Interview Questions Tester using GPT-3.5 and Whisper
-- Autonomous UAV 
-- Arduino Smart Planting watering system
+- Fashion AI app(SC will not be shown)
+- Interview Questions Tester using GPT-3.5 and Whisper(SC will not be shown)
+- Autonomous UAV(SC will not be shown)
+- Arduino Smart Planting watering system(source code has been uploaded)
 - Provide Requirements.txt for all the different softwares
