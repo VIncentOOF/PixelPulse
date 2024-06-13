@@ -82,5 +82,5 @@ Hi, my name is Vincent, I'm a Secondary 4 Student from Maris Stella High School 
 - Fashion AI app(SC will not be shown)
 - Interview Questions Tester using GPT-3.5 and Whisper(SC will not be shown)
 - Autonomous UAV(SC will not be shown)
-- Arduino Smart Planting watering system(source code has been uploaded)
+- Arduino Smart Planting watering system(SC has been uploaded)
 - Provide Requirements.txt for all the different softwares
