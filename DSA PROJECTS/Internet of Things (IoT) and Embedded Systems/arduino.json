@@ -1,0 +1,6 @@
+{
+    "sketch": "smart_plant_watering_1.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno"
+  }
+   
