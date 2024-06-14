@@ -79,7 +79,7 @@ Hi, my name is Vincent, I'm a Secondary 4 Student from Maris Stella High School 
   - wifi compass: Actual iOS app
  
 # Things Left to Do
--CycleMaps(SC will not be shown)
+- CycleMaps(SC will not be shown)
 - FitCheck(SC will not be shown)
 - Autonomous UAV(SC will not be shown)(done in colab to take advantage of its GPU)
 - Arduino Smart Planting watering system(SC has been uploaded)
