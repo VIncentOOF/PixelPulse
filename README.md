@@ -72,16 +72,5 @@ Hi, my name is Vincent, I'm a Secondary 4 Student from Maris Stella High School 
   - Voice Assist: Run this
   - Voice Assist Text: Description of what it can do
 
-## Web and Mobile Development
-- **Wifi Compass (halfway done)**
-  - Swift Text: Description of what it can do
-  - Wifi Compass Windows Testing: Demo version in python to run in windows
-  - wifi compass: Actual iOS app
  
-# Things Left to Do
-- CycleMaps(SC will not be shown)
-- FitCheck(SC will not be shown)(earliest screenshot shown)
-- Autonomous UAV(SC will not be shown)(done in colab to take advantage of its GPU)
-- Arduino Smart Planting watering system(SC has been uploaded)
-- upload Video of tello gesture control and facetracking, pushup counter, autonomous uav tracking
-- Provide Requirements.txt for all the different softwares
+
